@@ -1,0 +1,73 @@
+body{
+    font-family: "Impact;"
+    background-color: #484848;
+    text-shadow: 1px 1px #333;
+    text-align: center;
+}
+
+h1 {
+    font-family:"Impact";
+    font-size: 2.8em;
+    text-align: center;
+    text-shadow: 1px 1px #FFFFFF;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #333;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background: linear-gradient(135deg, rgba(76,76,76,1) 0%,rgba(89,89,89,1) 12%,rgba(102,102,102,1) 25%,rgba(71,71,71,1) 39%,rgba(44,44,44,1) 50%,rgba(0,0,0,1) 51%,rgba(17,17,17,1) 60%,rgba(43,43,43,1) 76%,rgba(28,28,28,1) 91%,rgba(19,19,19,1) 100%);
+    border-radius: 10px;
+
+}
+
+li {
+    float: left;
+    background:linear-gradient(135deg, rgba(216,224,222,1) 0%,rgba(174,191,188,1) 22%,rgba(153,175,171,1) 33%,rgba(142,166,162,1) 50%,rgba(130,157,152,1) 67%,rgba(78,92,90,1) 82%,rgba(14,14,14,1) 100%);
+    border-radius: 25px;
+}
+
+li a {
+    font-family: Impact;
+    font-size:1.2em;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+}
+
+/* Change the link color to #FFFFFFF (black) on hover */
+li a:hover {
+    background-color: #FFFFFF;
+    border-radius:25px;
+}
+.centerTable { margin: 0px auto; }
+#menu-outer {
+	height: 84px;
+	background: url(images/bar-bg.jpg) repeat-x;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
