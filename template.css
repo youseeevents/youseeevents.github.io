@@ -7,9 +7,10 @@ body{
 
 h1 {
     font-family:"Impact";
-    font-size: 20em;
+    font-size: 5em;
     text-align: center;
     text-shadow: 1px 1px #FFFFFF;
+    color:#5690e2;
 }
 td, th {
     border: 1px solid #dddddd;
