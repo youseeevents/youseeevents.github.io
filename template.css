@@ -7,9 +7,13 @@ body{
 
 h1 {
     font-family:"Impact";
-    font-size: 5em;
+    font-size: 2em;
     text-align: center;
     text-shadow: 1px 1px #FFFFFF;
+    color:#5690e2;
+}
+p {
+    font-family:"Impact";
     color:#5690e2;
 }
 td, th {
@@ -27,7 +31,7 @@ ul {
     margin: 0;
     padding: 10px;
     overflow: hidden;
-    background: linear-gradient(135deg, rgba(76,76,76,1) 0%,rgba(89,89,89,1) 12%,rgba(102,102,102,1) 25%,rgba(71,71,71,1) 39%,rgba(44,44,44,1) 50%,rgba(0,0,0,1) 51%,rgba(17,17,17,1) 60%,rgba(43,43,43,1) 76%,rgba(28,28,28,1) 91%,rgba(19,19,19,1) 100%);
+    background: linear-gradient(135deg, rgba(10,10,76,1) 0%,rgba(20,20,89,1) 12%,rgba(30,30,102,1) 25%,rgba(40,40,71,1) 39%,rgba(50,50,80,1) 50%,rgba(60,60,100,1) 51%,rgba(70,70,120,1) 60%,rgba(43,43,150,1) 76%,rgba(28,28,170,1) 91%,rgba(19,19,200,1) 100%);*/
     border-radius: 50px;
 
 }
