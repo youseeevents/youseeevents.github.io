@@ -39,7 +39,7 @@ li {
 }
 
 li a {
-    font-family: "Brush Script MT", cursive;
+    font-family: Impact;
     font-size:1.2em;
     display: block;
     color: white;
@@ -47,7 +47,15 @@ li a {
     padding: 12px 12px;
     text-decoration: none;
 }
-
+h2 {
+    font-family: Impact;
+    font-size:1.2em;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+}
 /* Change the link color to #FFFFFFF (black) on hover */
 li a:hover {
     background-color: #CCCCFF;
